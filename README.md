@@ -2,4 +2,4 @@
 
 Hi everyone!
 
-I'm Nobuyuki Takabayashi, the student in the second year of master course.
+I'm Nobuyuki Takabayashi, a PhD student in the third year at Kyoto University. I'm currently intersted in colaroration work on GitHub. And I want to cocreate image recognition software with colleagues in my lab. 
